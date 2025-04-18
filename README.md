@@ -1,4 +1,4 @@
-# GGs Link: https://assign-akashxsrs-projects.vercel.app/login
+# GGs Link: https://assign-q7m1.onrender.com
 Assignment of Global Groupware Solutions limited
 Added a login page, devloped a card displaying user information and avatar. Included search and filter options.
 #Technicalitie
