@@ -1,4 +1,4 @@
-# GGs
+# GGs Link: https://g-gs-dz8u.vercel.app/login
 Assignment of Global Groupware Solutions limited
 Added a login page, devloped a card displaying user information and avatar. Included search and filter options.
 #Technicalitie
